@@ -15,7 +15,7 @@ Me enfoco en construir aplicaciones web modernas con frontend dinámico y bases 
 
 🔗 LinkedIn: https://www.linkedin.com/in/luigi-marconi-favini
 
-🌐 Portfolio: Próximamente  
+🌐 Portfolio: portfolio-luigi-marconi-favini.netlify.app
 
 ---
 
